@@ -1,0 +1,2 @@
+I will create a cookbook based on the JSON data from this link. https://raw.githubusercontent.com/LeaVerou/forkgasm/master/recipes.json.
+I will use a TableView to display images of the food, the ingredients, and the cooking steps necessary, and I will organize it based on the "tags" section.
